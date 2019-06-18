@@ -1,0 +1,19 @@
+{
+  "name": "number-formatter",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rollaflip/number-formatter.git"
+  },
+  "author": "Ian K <iknepper@hotmail.com> (www.github.com/rollaflip)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rollaflip/number-formatter/issues"
+  },
+  "homepage": "https://github.com/rollaflip/number-formatter#readme"
+}
