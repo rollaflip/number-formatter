@@ -1,6 +1,6 @@
 # Number Formatter
-<br/>
-## By: Ian Knepper
+
+## By Ian Knepper
 <br/>
 
 [![Build Status](https://travis-ci.org/rollaflip/number-formatter.svg?branch=master)](https://travis-ci.org/rollaflip/number-formatter)
